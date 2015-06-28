@@ -10,10 +10,6 @@
 #include <pololu/3pi.h>
 #include <math.h>
 #include <stdlib.h> //used for the abs function
-double ABS (double input)
- {
-   return (input > 0) ? input : (0 - input);
- }
 #include <stdio.h>
 #include <avr/pgmspace.h>
 const char welcome[] PROGMEM = ">g32>>c32"; //sound used for debugging...
