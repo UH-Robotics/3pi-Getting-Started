@@ -10,6 +10,7 @@
  * Write a program that plays a sound on the 3pi.
  * Write a program on the 3pi that turns it left, then all the way right, and then finally it centers it self from the beginning position.
  * Write a program that displays how many seconds have gone by on the lcd.
+ * Write a program that plays a frequency for 5 seconds.
 
 ##Intermediate
 
