@@ -1,6 +1,6 @@
-#3pi Check off List
+# 3pi Check off List
 
-##Beginner
+## Beginner
 
  * Write a program that displays your name on the lcd.
  * Write a program that shows the button letter when the respective button is pressed.
@@ -12,13 +12,13 @@
  * Write a program that displays how many seconds have gone by on the lcd.
  * Write a program that plays a frequency for 5 seconds.
 
-##Intermediate
+## Intermediate
 
  * Write a program that plays a sound 5 seconds while the volume decreases.
  * Write a program where the speed of the motors depends on the position of the trimpot.
  * Construct a line follower program.
 
-##Advanced
+## Advanced
 
  * Write a program that plays your favorite video game theme! (I don't know how to do this myself?)
  * Construct a wall follower.
